@@ -1,5 +1,8 @@
 # Home Vision App
 
+![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/fad4da2f-26f9-4388-8834-27fe9c8db0d8)
+
+
 This project is part of the Home Vision initiative, aimed at introducing users to property-related applications. The Home Vision App, built using React Native and Expo, is designed to familiarize users with property visualization tools.
 
 ## About
@@ -9,6 +12,8 @@ The Home Vision App is a mobile application that provides users with a hands-on 
 ## Features
 
 - **Property Visualization:** Explore tools to visualize your dream home.
+- ![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/1c7a3807-3456-4c28-bbcf-d74b240ea768)
+
 - **User-Friendly Interface:** Simple and intuitive design for seamless navigation.
 - **Interactive Experience:** Engage with various elements to personalize your property view.
 
