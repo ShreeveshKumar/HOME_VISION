@@ -1,0 +1,35 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@react-native-masked-view/masked-view": "0.2.9",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/stack": "^6.3.20",
+    "expo": "~49.0.15",
+    "expo-constants": "~14.4.2",
+    "expo-linear-gradient": "^12.5.0",
+    "expo-linking": "~5.0.2",
+    "expo-router": "^2.0.14",
+    "expo-status-bar": "~1.6.0",
+    "nativewind": "^2.0.11",
+    "react": "18.2.0",
+    "react-native": "0.72.6",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-image-picker": "^7.0.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-unity-view": "^1.3.3",
+    "twrnc": "^3.6.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
