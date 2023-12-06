@@ -29,13 +29,16 @@ Welcome to HOME_VISION, your ultimate solution for visualizing your dream home i
 
 ### Screenshots
 **App Screenshot :**
-![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/d5a002db-6a49-4562-85f7-c0280b3d2ec7)            ![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/3d7c0756-6ec6-42b9-981d-2317df2af2f7)
+
+
+![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/d5a002db-6a49-4562-85f7-c0280b3d2ec7)    ![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/3d7c0756-6ec6-42b9-981d-2317df2af2f7)
 
 
 
 
 **AR/VR Screenshot :**
-![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/9ce6d00d-718d-4cb2-97dd-60cdfd5cee6a)             ![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/c50259e7-a40d-480c-bca5-4502082e4e2e)
+
+![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/9ce6d00d-718d-4cb2-97dd-60cdfd5cee6a)          ![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/c50259e7-a40d-480c-bca5-4502082e4e2e)
 
 
 
